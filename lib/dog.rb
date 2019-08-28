@@ -1,4 +1,8 @@
 class Dog
-  puts "first dog"
+  puts "who let the dogs out"
 end
+
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
 
